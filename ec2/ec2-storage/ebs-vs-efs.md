@@ -15,7 +15,7 @@ description: What's the difference. ?
   * EBS backups use IO and you shouldn’t run them while your application is handling a lot of traffic.&#x20;
 * Root EBS Volumes of instances get terminated by default if the EC2 instance gets terminated. (You can disable that)
 
-<img src="../../.gitbook/assets/image (11) (1).png" alt="" data-size="original">![](<../../.gitbook/assets/image (19).png>)
+<img src="../../.gitbook/assets/image (11).png" alt="" data-size="original">![](<../../.gitbook/assets/image (19).png>)
 
 * Mounting 100s of instances across AZ&#x20;
 * EFS share website files (WordPress)&#x20;

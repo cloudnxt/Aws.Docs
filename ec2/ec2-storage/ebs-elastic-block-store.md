@@ -19,7 +19,7 @@ description: Think of them as a “network USB stick”
 * Have a provisioned capacity (size in GBs, and IOPS)&#x20;
 * You get billed for all the provisioned capacity • You can increase the capacity of the drive over time.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## EBS – Delete on Termination attribute
 
@@ -76,7 +76,7 @@ description: Think of them as a “network USB stick”
 
 
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>io2 Multi Attach</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>io2 Multi Attach</p></figcaption></figure>
 
 ### Hard Disk Drives (HDD)
 

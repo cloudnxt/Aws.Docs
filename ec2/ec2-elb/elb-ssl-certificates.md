@@ -50,3 +50,5 @@
 * SNI solves the problem of loading multiple SSL certificates onto one web server (to serve multiple websites)&#x20;
 * It’s a “newer” protocol and requires the client to indicate the hostname of the target server in the initial SSL handshake.&#x20;
 * The server will then find the correct certificate or return the default one.
+
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
