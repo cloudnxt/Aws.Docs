@@ -76,7 +76,7 @@ description: Think of them as a “network USB stick”
 
 
 
-<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>io2 Multi Attach</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>io2 Multi Attach</p></figcaption></figure>
 
 ### Hard Disk Drives (HDD)
 

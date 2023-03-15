@@ -10,7 +10,7 @@ description: Command line API
 * It’s open-source https://github.com/aws/aws-cli.&#x20;
 * Alternative to using AWS Management Console
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Cheat Sheet + Tips and Tricks
 

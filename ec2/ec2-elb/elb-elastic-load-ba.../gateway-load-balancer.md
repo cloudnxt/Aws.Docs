@@ -17,4 +17,4 @@ description: Layer 3
 * EC2 instances.&#x20;
 * IP Addresses – must be private IPs.
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
