@@ -1,5 +1,5 @@
 ---
-description: Layer 4 & Layer 7
+description: Layer 7
 ---
 
 # Application Load Balancer (v2)
