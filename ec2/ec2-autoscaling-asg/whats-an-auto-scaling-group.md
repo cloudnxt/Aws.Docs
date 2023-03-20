@@ -20,5 +20,11 @@
   * Load Balancer Information&#x20;
 * Min Size / Max Size / Initial Capacity&#x20;
 * Scaling Policies
+* It is possible to scale an ASG based on CloudWatch alarms.&#x20;
+* An alarm monitors a metric (such as Average CPU, or a custom metric)&#x20;
+* Metrics such as Average CPU are computed for the overall ASG instances.&#x20;
+* Based on the alarm:&#x20;
+  * We can create scale-out policies (increase the number of instances)&#x20;
+  * We can create scale-in policies (decrease the number of instances)
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
