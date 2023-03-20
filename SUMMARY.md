@@ -63,8 +63,8 @@
   * [ELB - Cross-Zone](ec2/ec2-elb/elb-cross-zone.md)
   * [ELB - SSL Certificates](ec2/ec2-elb/elb-ssl-certificates.md)
   * [ELB - Connection Draining](ec2/ec2-elb/elb-connection-draining.md)
-* [EC2 - Autoscaling (ASG)](ec2/ec2-autoscaling-asg.md)
-* [Copy of EC2 - Autoscaling (ASG)](ec2/copy-of-ec2-autoscaling-asg.md)
+* [EC2 - Autoscaling (ASG)](ec2/ec2-autoscaling-asg/README.md)
+  * [What’s an Auto Scaling Group?](ec2/ec2-autoscaling-asg/whats-an-auto-scaling-group.md)
 * [EC2 Section – Summary](ec2/ec2-section-summary.md)
 
 ## Database Services

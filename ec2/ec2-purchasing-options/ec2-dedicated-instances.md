@@ -4,4 +4,4 @@
 * May share hardware with other instances in same account.
 * No control over instance placement (can move hardware after Stop / Start)
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
