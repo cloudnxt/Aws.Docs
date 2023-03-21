@@ -19,7 +19,7 @@ description: Think of them as a “network USB stick”
 * Have a provisioned capacity (size in GBs, and IOPS)&#x20;
 * You get billed for all the provisioned capacity • You can increase the capacity of the drive over time.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## EBS – Delete on Termination attribute
 
@@ -118,7 +118,7 @@ Cannot be a boot volume.
 
 {% embed url="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volume-types.html" %}
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## EBS Snapshots
 

@@ -69,7 +69,7 @@
 
 ## Database Services
 
-* [RDS](database-services/rds.md)
+* [Amazon RDS Overview](database-services/amazon-rds-overview.md)
 * [Amazon Aurora](database-services/amazon-aurora.md)
 * [ElastiCache](database-services/elasticache.md)
 

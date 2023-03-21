@@ -28,7 +28,7 @@ description: Scale for your users, make yourself available.
 * Min Size / Max Size / Initial Capacity&#x20;
 * Scaling Policies
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## CloudWatch Alarms & Scaling
 
@@ -53,7 +53,7 @@ description: Scale for your users, make yourself available.
 * **Predictive scaling:**&#x20;
   * continuously forecast load and schedule scaling ahead
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Predictive Scaling</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Predictive Scaling</p></figcaption></figure>
 
 ## Good metrics to scale on
 
