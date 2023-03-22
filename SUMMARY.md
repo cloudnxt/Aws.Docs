@@ -93,6 +93,6 @@
 * [S3 - CORS](amazon-s3/s3-cors.md)
 * [S3 - Pre-Signed URLs](amazon-s3/s3-pre-signed-urls.md)
 
-## Group 1
+## About
 
-* [Privacy Policy](group-1/privacy-policy.md)
+* [Privacy Policy](about/privacy-policy.md)
