@@ -2,7 +2,7 @@
 
 Amazon Web Services (**AWS**) is the world’s most comprehensive and broadly adopted cloud platform, offering over 200 fully featured services from data centers globally.
 
-[{Read The book}](https://cloudnxt.gitbook.io/aws)
+[Read the book here](https://cloudnxt.gitbook.io/aws)
 
 ## How to read this doc.
 
